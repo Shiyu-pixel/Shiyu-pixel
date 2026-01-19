@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="LINK_DA_SUA_IMAGEM_AQUI" width="100%" alt="Shiyu-pixel Banner">
+  <img src="https://github.com/Shiyu-pixel/Shiyu-pixel/blob/main/banner%20github.png?raw=true" width="100%" alt="Shiyu-pixel Banner">
 
   <h1>✨ Hi there, I'm Shiyu! ✨</h1>
   
@@ -9,10 +9,10 @@
 
   <p><i>"learning the art of code & coffee ☕"</i></p>
 
-  <a href="https://discord.com/users/SEU_ID_DO_DISCORD">
+  <a href="https://discord.com/users/shiyux._">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
-  <a href="https://twitter.com/SEU_USER_DO_TWITTER">
+  <a href="https://twitter.com/Shiyu8020">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
   </a>
 </div>
@@ -33,9 +33,7 @@ Olá! Sou estudante de **Front-end** apaixonada por design e estética pixel art
 <div align="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
-  <img src="https://img.shields.io/badge/Krita-%233157A3.svg?style=for-the-badge&logo=Krita&logoColor=white" alt="Krita">
 </div>
 
 ---
