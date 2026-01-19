@@ -9,7 +9,7 @@
 
   <p><i>"learning the art of code & coffee ☕"</i></p>
 
-  <a href="https://discord.com/users/shiyux._">
+  <a href="https://discord.com/users/610900307207127127">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
   <a href="https://twitter.com/Shiyu8020">
