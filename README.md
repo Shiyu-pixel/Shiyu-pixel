@@ -22,14 +22,14 @@
 ### 🌙 About Me
 Olá! Sou estudante de **Front-end** apaixonada por design e estética pixel art. Atualmente, estou focada em dominar a estrutura do código e a beleza das interfaces. 
 
-- 🖥️ **Estudando:** HTML5, CSS3 e os primeiros passos em JavaScript.
-- 🎨 **Design:** Faço artes e protótipos usando **Canva** e **Krita**.
+- 🖥️ **Estudando:** HTML5, CSS3 e em breve JavaScript.
+- 🎨 **Design:** Faço artes e protótipos usando **Canva**.
 - 🎧 **Vibe:** Fã de *Bocchi the Rock!* e playlists de Lo-fi para codar à noite.
-- 🏳️‍⚧️ **Orgulho:** Vivendo minha jornada com autenticidade.
+- 🏳️‍⚧️ **Orgulho:**
 
 ---
 
-### 🛠️ My Tech Stack
+### 🛠️ My Tech Stack (GOAL)
 <div align="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
