@@ -24,7 +24,7 @@ Olá! Sou estudante de **Front-end** apaixonada por design e estética pixel art
 
 - 🖥️ **Estudando:** HTML5, CSS3 e em breve JavaScript.
 - 🎨 **Design:** Faço artes e protótipos usando **Canva**.
-- 🎧 **Vibe:** Fã de *Bocchi the Rock!* e playlists de Lo-fi para codar à noite.
+- 🎧 **Vibe:** Fã de *Death Note, Toradora, Bocchi The Rock!* e playlists de Lo-fi para codar à noite.
 - 🏳️‍⚧️ **Orgulho**
 
 ---
